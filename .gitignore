@@ -1,0 +1,6 @@
+# https://github.com/github/gitignore/blob/master/Django.gitignore
+
+*.log
+*.pot
+local_settings.py
+
